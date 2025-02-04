@@ -39,7 +39,7 @@ Execution times are printed for large input sizes.
 ### Running the Script
 Execute the script using Python:
 ```bash
-python3 selection_algorithms.py
+python3 test_algos.py
 ```
 
 ### Example Output
